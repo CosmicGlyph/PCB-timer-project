@@ -21,7 +21,7 @@ This project is a digital electronic timer designed using a 4-digit 7-segment di
 - 4-digit 7-segment display
 - Push buttons
 - LEDs
-- Arduino Microcontroller
+- Arduino Mega 2560 Microcontroller
 - resistors
 - ceramic and electrolytic capacitors
 - Designed and implemented using KiCad
